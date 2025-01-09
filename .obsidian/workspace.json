@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Super New U.S. History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Super New U.S. History"
             }
           }
         ],
@@ -62,15 +62,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RLA.md",
+                "file": "U.S. History N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RLA"
+              "title": "U.S. History N"
+            }
+          },
+          {
+            "id": "adb6549b5fdd59b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,6 +210,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "25f6ce92f4ecc9f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -218,11 +239,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7241a9dbdde796ec",
+  "active": "460c459053de58df",
   "lastOpenFiles": [
-    "Welcome.md",
-    "RLA.md",
     "Social Studies.md",
+    "Super New U.S. History.md",
+    "Welcome.md",
+    "U.S. History N.md",
+    "RLA.md",
+    "U.S. History.md",
     "Biology.md",
     "LICENSE",
     "Sources/Images/Science/genomics.jpg",
