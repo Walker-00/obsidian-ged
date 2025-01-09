@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U.S Supreme Court Cases.md",
-                "mode": "source",
+                "file": "U.S. Supreme Court Cases.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U.S Supreme Court Cases"
+              "title": "U.S. Supreme Court Cases"
             }
           },
           {
@@ -220,10 +220,10 @@
   },
   "active": "ffd653b9d237baf6",
   "lastOpenFiles": [
-    "U.S. D.A.T.C.md",
-    "U.S Supreme Court Cases.md",
-    "Super New U.S. History.md",
     "Social Studies.md",
+    "U.S. Supreme Court Cases.md",
+    "U.S. D.A.T.C.md",
+    "Super New U.S. History.md",
     "RLA.md",
     "Welcome.md",
     "U.S. History N.md",

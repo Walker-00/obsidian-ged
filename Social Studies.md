@@ -1,1 +1,1 @@
-[[U.S. History]], [[U.S. History N]], [[Super New U.S. History]], [[U.S. D.A.T.C]]
+[[U.S. History]], [[U.S. History N]], [[Super New U.S. History]], [[U.S. D.A.T.C]], [[U.S. Supreme Court Cases]]
