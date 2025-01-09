@@ -1,5 +1,3 @@
-
-
 ## **The American Revolution (1775–1783)**
 
 ### **Overview**
